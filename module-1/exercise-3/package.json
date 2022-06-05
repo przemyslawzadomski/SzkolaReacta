@@ -1,0 +1,15 @@
+{
+  "name": "exercise-3",
+  "version": "1.0.0",
+  "description": "Szkola Reacta",
+  "main": "time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "node time.js"
+  },
+  "author": "Przemyslaw Zadomski",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
